@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Software Developer/not-so-newgrad from the University of Minnesota - Twin Cities, where I got my Bachelors of Science in Computer Science.
 
 
-## 💼 Featured Projects
+## 💼 Featured Project Repositories
 Here are a few projects of mine:
 
 - **[Portfolio Site](https://github.com/JacksonKary/JacksonKary.github.io)** - I built my portfolio with React, Tailwind, and FramerMotion.
