@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jackson
 
-Welcome to my GitHub profile! I'm a Software Developer/not-so-newgrad from the University of Minnesota - Twin Cities, where I got my Bachelors of Science in Computer Science.
+Welcome to my GitHub profile! I'm a Software Engineer/not-so-newgrad from the University of Minnesota - Twin Cities, where I got my Bachelors of Science in Computer Science.
 
 
 ## 💼 Featured Project Repositories
